@@ -8,7 +8,7 @@ This project is a gateway between the Safe clients ([Android](https://github.com
 
 ## Documentation
 
-- [Client Gateway Docs](https://safe.global/safe-client-gateway/)
+- [Client Gateway Docs](https://safe.global/safe-client-gateway/docs/)
 - [Swagger](https://safe-client.gnosis.io/index.html)
 - [Safe developer documentation](https://docs.gnosis.io/safe/)
 
